@@ -1,5 +1,5 @@
 # Exechack.cc-checker Version: 27052025
-Чекер русского продукта <a href="https://b.exechack.cc/">exechack.cc</a> через запросы:   
+Чекер аккаунтов русского читы на Garrys'mod <a href="https://b.exechack.cc/">exechack.cc</a>:   
 Используемые библиотеки:
 `os,requets,colorama`
 
