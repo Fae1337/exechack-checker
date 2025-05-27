@@ -1,7 +1,7 @@
 # Работоспособность скрипта актуальная по сей день
 # Exechack.cc-checker Version: 27052025
 
-Чекер аккаунтов русского читы на Garrys'mod <a href="https://b.exechack.cc/">exechack.cc</a>:   
+Чекер аккаунтов русского чита на Garrys'mod <a href="https://b.exechack.cc/">exechack.cc</a>:   
 Используемые библиотеки:
 `os,requets,colorama`
 
