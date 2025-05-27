@@ -29,7 +29,7 @@ def main(folder_logs,log_file):
                     print(Fore.GREEN + f"[Account with subscription was found] {login}:{password} - {r.text}")
 
                     with open("validate_acces.txt","a",encoding="utf-8") as validate:
-                        validate.write(f"{login}:{password}")
+                        validate.write(f"{login}:{password}\n")
                 else:
                     continue
 
