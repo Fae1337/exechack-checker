@@ -4,7 +4,7 @@
 Чекер аккаунтов русского чита на Garrys'mod <a href="https://b.exechack.cc/">exechack.cc</a>:   
 Используемые библиотеки:
 `os,requests,colorama`   
-`pip install requests colorama`
+        `pip install requests colorama`
 <img src="more/Снимок экрана 2025-05-27 133732.png" />   
 
 # Как запустить ?
