@@ -1,5 +1,3 @@
-<img src="https://cdn.discordapp.com/attachments/1119567693624909905/1377315517089448056/314097.jpg?ex=68388488&is=68373308&hm=cd0607659a519fffbf4a487ffd3ac32dc8475bfaf31bbdddc1ddcd2a8f40c81d&" />   
-
 # Exechack.cc-checker Version: 27052025
 
 Чекер аккаунтов русского чита на Garrys'mod <a href="https://b.exechack.cc/">exechack.cc</a>:   
